@@ -1,5 +1,5 @@
 #clock
-configuring the clock speed of the MSP430.
+Configures the clock frequency of the MSP430 to a given value.
 
 ##Functions:
 
